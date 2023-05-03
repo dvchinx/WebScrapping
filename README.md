@@ -1,9 +1,9 @@
 # WebScrapping
-View of the Proyect:
+**View of the Proyect:**
 
 `https://youtu.be/zZCsAfei3tM`
 
-Code by: 
+**Code by:**
 
 `dvchinx`
 
